@@ -4,4 +4,5 @@
 - SQLiteDatabase
 - Service
 - broadcast
+
 这是一个适合新手学习的单线程断点下载的案例，里面可能还存在许多未知的bug
